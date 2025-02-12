@@ -1,0 +1,11 @@
+{
+    "productid"                	: "471e8e6860b8419b8774726873527b1b",
+    "sandboxid"                	: "25e09a8c24c44683bca1a6f25aea9221",
+    "deploymentid"             	: "3ee387e855d949679ce8f4c1ad274a02",
+    "title"						: "Suicide Squad: Kill the Justice League",
+    "executable"					: "Stones\\Binaries\\Win64\\SuicideSquad_KTJL.exe",
+    "requested_splash"				: "EasyAntiCheat/SplashScreen.png",
+ "wait_for_game_process_exit"	: "true",
+ "hide_bootstrapper"			: "false",
+ "hide_gui"						: "false"
+}
