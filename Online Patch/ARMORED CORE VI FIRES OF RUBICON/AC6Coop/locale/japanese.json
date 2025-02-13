@@ -1,0 +1,58 @@
+{
+	"MENUMSG_GAME_TRYGUESTRESETMISSION": "侵入されている状態ではセッションをリスタートすることはできません",
+	"MENUMSG_GAME_TRYONLINEQUIT": "セッションを終了できませんでした\n終了する前に現在のパーティーから退出して下さい",
+	"MENUMSG_GAME_TRYONLINEENEMY": "ホストのみがセッションを再補給できます",
+	"MENUMSG_GAME_TRYONLINERESUPPLY": "ホストのみが敵の動作を編集できます",
+
+	"MENUMSG_YKNX_PARENT": "マルチプレイヤー",
+	"MENUMSG_YKNX_HELP": "マルチプレイヤーメニュー",
+
+	"MENUMSG_YKNX_BUTTONHOST": "分隊を作成する",
+	"MENUMSG_YKNX_BUTTONJOIN": "分隊に参加する",
+	"MENUMSG_YKNX_BUTTONBREAKIN": "ミッションに侵入する",
+	"MENUMSG_YKNX_BUTTONLEAVE": "分隊を抜ける",
+	"MENUMSG_YKNX_HELPHOST": "セッションをホストし、フレンドを招待する",
+	"MENUMSG_YKNX_HELPJOIN": "セッションに参加し、フレンドを助ける",
+	"MENUMSG_YKNX_HELPBREAKIN": "セッションに侵入し、敵機の破壊を試みる",
+	"MENUMSG_YKNX_HELPLEAVE": "現在のセッションから切断されました",
+
+	"MENUMSG_YKNX_ALERTHOST": "セッションの開始に失敗しました\nあなたは既にセッションに参加しています",
+	"MENUMSG_YKNX_ALERTJOIN": "セッションの参加に失敗しました\nあなたは既にセッションに参加しています",
+	"MENUMSG_YKNX_ALERTBREAKIN": "セッションの侵入に失敗しました",
+	"MENUMSG_YKNX_ALERTLEAVE": "セッションの退出に失敗しました\nあなたはセッションに参加していません",
+	"MENUMSG_YKNX_ALERTARENA": "ミッションを開始できませんでした\nホストのみがミッションを開始できます",
+	"MENUMSG_YKNX_ALERTSORTIE": "ミッションを開始できませんでした\nホストのみがミッションを開始できます",
+	"MENUMSG_YKNX_ALERTALPHA": "操作に失敗しました。この機能はアルファ版には実装されていません",
+
+	"MENUMSG_PMI_PARENT": "分隊の詳細",
+	"MENUMSG_PMI_HELP": "メンバーの詳細を表示",
+
+	"MENUMSG_PMI_BUTTONPMIEMPTY": "[ - EMPTY - ]",
+	"MENUMSG_PMI_BUTTONPMIPROFILE": "STEAMプロフィール",
+	"MENUMSG_PMI_BUTTONPMIVIEWAC": "機体を表示",
+	"MENUMSG_PMI_BUTTONPMIKICK": "プレイヤーを除外",
+	
+	"MENUMSG_PMI_ALERTPMIEMPTY": "分隊に入っていません",
+	"MENUMSG_PMI_ALERTPMISLOTEMPTY": "[ - NO PLAYER - ]",
+	"MENUMSG_PMI_ALERTPMINOPROFILE": "失敗\nプロフィールを取得中に予期せぬエラーが発生しました",
+	"MENUMSG_PMI_ALERTPMINOAC": "失敗\n機体情報を取得中に予期せぬエラーが発生しました",
+	"MENUMSG_PMI_ALERTPMINOKICK": "プレイヤーの除外に失敗\nホストのみが可能な操作です",
+	
+	"MENUMSG_PMI_HELPPLAYER": "プレイヤーの詳細を拡大する",
+	"MENUMSG_PMI_HELPVIEWPROFILE": "STEAMプロフィールを表示する",
+	"MENUMSG_PMI_HELPVIEWAC": "プレイヤーの機体情報を表示する",
+	"MENUMSG_PMI_HELPKICKPLAYER": "このプレイヤーをパーティーから除外する",
+
+	"MODMSG_GAME_INVADERALERT": "INTRUDER DETECTED",
+	"MODMSG_GAME_INVADERALERTWIN": "ENEMY DESTROYED",
+	"MODMSG_GAME_INVADERALERTWINSUCCESS": "MISSION SUCCESS",
+	"MODMSG_GAME_INVADERALERTLOSS": "ROGUE AC OFFLINE",
+	"MODMSG_GAME_INVADERALERTLOSSFAILURE": "MISSION FAILED",
+	"MODMSG_GAME_NOSESSIONSAVAIL": "侵入に失敗しました\nセッションが見つかりませんでした",
+	"MODMSG_GAME_SESSIONFULL": "侵入に失敗しました\nセッションの参加に失敗しました",
+	"MODMSG_GAME_SESSIONMISMATCH": "侵入に失敗しました\n侵入に失敗しました",
+	"MODMSG_GAME_SESSIONBLOCKED": "侵入に失敗しました\nホストにブロックされています",
+	"MODMSG_GAME_COOPDISABLED": "セッションの開始に失敗しました\nこのミッションはCo-opに対応していません",
+
+	"CREDITS": "フリスケ"
+}

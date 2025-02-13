@@ -1,0 +1,59 @@
+{
+
+	"MENUMSG_GAME_TRYGUESTRESETMISSION": "Only a safe host can restart the current mission",
+	"MENUMSG_GAME_TRYONLINEQUIT": "Unable to quit in an multiplayer session\nPlease select to leave the current party before quitting",
+	"MENUMSG_GAME_TRYONLINEENEMY": "Only the host can resupply the session.",
+	"MENUMSG_GAME_TRYONLINERESUPPLY": "Only the host can modify test enemy behaviour",
+
+	"MENUMSG_YKNX_PARENT": "MULTIPLAYER",
+	"MENUMSG_YKNX_HELP": "Mutliplayer menu",
+
+	"MENUMSG_YKNX_BUTTONHOST": "START SQUAD",
+	"MENUMSG_YKNX_BUTTONJOIN": "JOIN SQUAD",
+	"MENUMSG_YKNX_BUTTONBREAKIN": "BREAK IN MISSION",
+	"MENUMSG_YKNX_BUTTONLEAVE": "LEAVE SQUAD",
+	"MENUMSG_YKNX_HELPHOST": "Host an online session and invite friends",
+	"MENUMSG_YKNX_HELPJOIN": "Join an online session and help friends",
+	"MENUMSG_YKNX_HELPBREAKIN": "Invade an online session and attempt to destroy other ACs",
+	"MENUMSG_YKNX_HELPLEAVE": "Disconnect from current online session",
+
+	"MENUMSG_YKNX_ALERTHOST": "Unable to start online session.\nYou're already in a session.",
+	"MENUMSG_YKNX_ALERTJOIN": "Unable to join online session.\nYou're already in a session.",
+	"MENUMSG_YKNX_ALERTBREAKIN": "Unable to start break-in mission.",
+	"MENUMSG_YKNX_ALERTLEAVE": "Unable to leave online session.\nYou're not in a session.",
+	"MENUMSG_YKNX_ALERTARENA": "Unable to start mission.\nOnly the host can start an online mission.",
+	"MENUMSG_YKNX_ALERTSORTIE": "Unable to start mission.\nOnly the host can start an online mission.",
+	"MENUMSG_YKNX_ALERTALPHA": "Operation failed. This feature is not ready for the alpha version.",
+
+	"MENUMSG_PMI_PARENT": "SQUAD DETAILS",
+	"MENUMSG_PMI_HELP": "View party member details",
+
+	"MENUMSG_PMI_BUTTONPMIEMPTY": "[ - EMPTY - ]",
+	"MENUMSG_PMI_BUTTONPMIPROFILE": "STEAM PROFILE",
+	"MENUMSG_PMI_BUTTONPMIVIEWAC": "VIEW AC",
+	"MENUMSG_PMI_BUTTONPMIKICK": "REMOVE PLAYER",
+
+	"MENUMSG_PMI_ALERTPMIEMPTY": "Not in a squad.",
+	"MENUMSG_PMI_ALERTPMISLOTEMPTY": "[ - NO PLAYER - ]",
+	"MENUMSG_PMI_ALERTPMINOPROFILE": "Failed.\nUnexpected error retrieving player profile.",
+	"MENUMSG_PMI_ALERTPMINOAC": "Failed.\nUnexpected error retrieving player AC data.",
+	"MENUMSG_PMI_ALERTPMINOKICK": "Unable to disconnect player.\nOnly the host can do this.",
+
+	"MENUMSG_PMI_HELPPLAYER": "Expand player details",
+	"MENUMSG_PMI_HELPVIEWPROFILE": "View player's profile on Steam",
+	"MENUMSG_PMI_HELPVIEWAC": "View player's AC build",
+	"MENUMSG_PMI_HELPKICKPLAYER": "Remove this player from your party",
+
+	"MODMSG_GAME_INVADERALERT": "INTRUDER DETECTED",
+	"MODMSG_GAME_INVADERALERTWIN": "ENEMY DESTROYED",
+	"MODMSG_GAME_INVADERALERTWINSUCCESS": "MISSION SUCCESS",
+	"MODMSG_GAME_INVADERALERTLOSS": "ROGUE AC OFFLINE",
+	"MODMSG_GAME_INVADERALERTLOSSFAILURE": "MISSION FAILED",
+	"MODMSG_GAME_NOSESSIONSAVAIL": "Failed to invade\nNo sessions found",
+	"MODMSG_GAME_SESSIONFULL": "Failed to invade\nFailed to join session",
+	"MODMSG_GAME_SESSIONMISMATCH": "Failed to invade\nInvasion failed",
+	"MODMSG_GAME_SESSIONBLOCKED": "Failed to invade\nBlocked by session host",
+	"MODMSG_GAME_COOPDISABLED": "Failed to begin online mission\nMission not functional in co-op",
+
+	"CREDITS": "LukeYui"
+}

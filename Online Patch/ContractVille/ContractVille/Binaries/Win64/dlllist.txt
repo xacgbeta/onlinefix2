@@ -1,0 +1,3 @@
+OnlineFix64.dll
+..\..\Plugins\EOSCore\Source\ThirdParty\EOSLibrary\Bin\EOSSDK-Win64-Shipping.dll
+EOSAuthHooker64.dll
