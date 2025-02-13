@@ -1,0 +1,5 @@
+SteamOverlay64.dll
+OnlineFix64.dll
+GameAssembly.dll
+Custom.dll
+StubDRM64.dll
