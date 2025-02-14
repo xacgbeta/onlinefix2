@@ -1,0 +1,16 @@
+AddGameMemoryInfos	BEFORE_FONT
+
+OpenBF			FONT\ENGLISH
+	LoadFont		FONTES\BIG_FONT
+	LoadFont		FONTES\SMALL_FONT
+	LoadFont		FONTES\BIG_RUS
+	LoadFont		FONTES\BIG_JAP
+	LoadFont		FONTES\BIG_KOR
+	LoadFont		FONTES\BIG_CHI
+CloseBF
+
+OpenBF			FONT\DEBUGFONT
+	LoadFont		FONTES\DEBUG_FONT	
+CloseBF
+
+AddGameMemoryInfos	AFTER_FONT

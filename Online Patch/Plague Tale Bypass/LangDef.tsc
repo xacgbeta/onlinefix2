@@ -1,0 +1,26 @@
+// AddLangDefine	TSC_ID MPEG_ID	VR_ID CONSOLE_LANG	WWISE_LANG_DIR
+						   
+AddLangDefine		01		 0		02		ENGLISH			"English(US)"
+AddLangDefine		02		 0		02		FRENCH			"French(France)"
+AddLangDefine		04		 0		04		GERMAN			"German"
+
+AddLangDefine		05		 -1		05		ITALIAN			"English(US)"
+AddLangDefine		03		 -1		03		SPANISH			"English(US)"
+AddLangDefine		20		 -1		20		SPANISH_US		"English(US)"
+AddLangDefine		08		 -1		08		POLISH			"English(US)"
+AddLangDefine		11		 -1		11		CZECH			"English(US)"
+AddLangDefine		14		 -1		14		BRAZIL			"English(US)"
+AddLangDefine		17		 -1		17		RUSSIAN			"English(US)"
+AddLangDefine		21		 -1		21		TCHINESE		"English(US)"
+AddLangDefine		22		 -1		22		SCHINESE		"English(US)"
+AddLangDefine		00		 -1		00		JAPANESE		"English(US)"
+AddLangDefine		09		 -1		09		KOREAN			"English(US)"
+
+SetLanguage AUTO
+LoadINPUT
+LoadButtonConfig 0 input DEFAULT
+LoadButtonConfig 1 input_ALT1
+//LoadButtonConfig 2 input_ALT2
+LoadSystemLanguageText
+InitLanguageMC
+
