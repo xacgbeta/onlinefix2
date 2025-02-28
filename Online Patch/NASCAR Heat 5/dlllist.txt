@@ -1,0 +1,5 @@
+SteamOverlay64.dll
+OnlineFix64.dll
+NASCARHeat5_Data\Mono\EmbedRuntime\mono.dll
+NASCARHeat5_Data\Managed\Assembly-CSharp.net.org
+Custom.net

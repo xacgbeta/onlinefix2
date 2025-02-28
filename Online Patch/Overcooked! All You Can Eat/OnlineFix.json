@@ -1,0 +1,9 @@
+{
+  "exe": "Overcooked All You Can Eat.exe",
+  "arguments": "",
+  "sendToken": false,
+  "photonIntegration": false,
+  "serverAddress": "",
+  "relyingProvider": "rp://xplay.t17service.com/",
+  "credentials": ""
+}
