@@ -1,0 +1,9 @@
+{
+	"title"											: "Far Cry 5",
+	"executable"									: "FarCry5.exe",
+	"parameters"									: "",
+	"use_cmdline_parameters"						: "1",
+	"wait_for_game_process_exit"					: "0",
+	"hide_splash_screen"							: "1",
+	"hide_ui_controls"								: "0"
+}
