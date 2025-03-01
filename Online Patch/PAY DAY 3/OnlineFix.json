@@ -1,0 +1,9 @@
+{
+  "exe": "PAYDAY3\\Binaries\\Win64\\PAYDAY3Client-Win64-Shipping.exe",
+  "arguments": "",
+  "sendToken": false,
+  "photonIntegration": false,
+  "serverAddress": "",
+  "relyingProvider": "rp://nebula.SBZ.com/",
+  "credentials": "VkpsXsJkLU6M8LV+L54n9/i6wt0YiOTzIEXj0/Dkl8LwRDr9o2mnI3QLp+D/pgt2"
+}
