@@ -1,0 +1,11 @@
+{
+    "filters": [
+        {
+            "cmp": 0,
+            "ival": 1,
+            "key": "isretiring"
+        }
+    ],
+    "name": "Retiring Players",
+    "type": "player"
+}

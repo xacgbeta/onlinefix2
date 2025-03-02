@@ -1,0 +1,11 @@
+{
+    "filters": [
+        {
+            "cmp": 5,
+            "ival": 460000,
+            "key": "playerid"
+        }
+    ],
+    "name": "Generated Players",
+    "type": "player"
+}
