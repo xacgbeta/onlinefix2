@@ -1,2 +1,2 @@
-SteamOverlay64.dll
 OnlineFix64.dll
+StubDRM64.dll
