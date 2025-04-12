@@ -1,2 +1,0 @@
-StubDRM64.dll
-OnlineFix64.dll

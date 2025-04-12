@@ -1,3 +1,0 @@
-OnlineFix.dll
-PlayfabRedirector.dll
-StubDRM32.dll

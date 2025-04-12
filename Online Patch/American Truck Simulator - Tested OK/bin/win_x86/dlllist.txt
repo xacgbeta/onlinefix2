@@ -1,2 +1,0 @@
-OnlineFix.dll
-StubDRM32.dll

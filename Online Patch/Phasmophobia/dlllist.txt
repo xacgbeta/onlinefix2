@@ -1,4 +1,0 @@
-SteamOverlay64.dll
-OnlineFix64.dll
-GameAssembly.dll
-PhotonBridge.dll

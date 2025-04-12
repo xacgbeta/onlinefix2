@@ -1,2 +1,0 @@
-OnlineFix64.dll
-EOSAuthHooker64.dll

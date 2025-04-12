@@ -1,6 +1,0 @@
-OnlineFix64.dll
-UnityPlayer.dll
-Custom.dll
-Touge Shakai_Data\Plugins\x86_64\EOSSDK-Win64-Shipping.dll
-EOSAuthHooker64.dll
-SteamOverlay64.dll

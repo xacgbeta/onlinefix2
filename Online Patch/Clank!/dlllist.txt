@@ -1,2 +1,0 @@
-SteamOverlay64.dll
-OnlineFix64.dll

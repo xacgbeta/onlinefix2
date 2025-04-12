@@ -1,3 +1,0 @@
-OnlineFix64.dll
-EOSAuthHooker64.dll
-StubDRM64.dll
