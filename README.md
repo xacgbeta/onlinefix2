@@ -3,6 +3,7 @@
 
 # MAKE SURE YOU FINISHED DOWNLOAD THE GAME BEFORE START PATCHING!
 ## How to use:
+1. Download `Patch` from [release](https://github.com/xacgbeta/onlinefix2/releases/tag/Patch).
 1. Launch `Patch.exe`.
 2. `Browse` game folder directory.
 3. `Search` your game.
