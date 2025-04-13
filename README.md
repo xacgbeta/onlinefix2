@@ -1,5 +1,7 @@
 # Steam Online Patch
 - Enable player to play online for steam games.
+## Disclaimer
+- This program is intended for educational and informational use only. The author does not endorse, support, or promote software piracy or any illegal activities. Any references to third-party software are provided strictly for legal analysis and discussion. Users are fully responsible for ensuring their actions comply with all applicable laws. The author holds no responsibility for misuse of this information.
 
 # MAKE SURE YOU FINISHED DOWNLOAD THE GAME BEFORE START PATCHING!
 ## How to use:
