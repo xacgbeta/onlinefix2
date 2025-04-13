@@ -8,7 +8,7 @@
 2. `Browse` game folder directory.
 3. `Search` your game.
 4. Click `Patch Game` — automation will handle the rest.
-5. Enjoy the game!:tada:
+5. Enjoy the game!🎉
 
 ## Important Notes:
 - If you can't download, `turn off Antivirus`, and after download finished put `exclusions` and `turn on Antivirus`.
